@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blazeclan/static/css/main.5f361e03.chunk.css",
+    "main.js": "/blazeclan/static/js/main.56ac73ac.chunk.js",
+    "main.js.map": "/blazeclan/static/js/main.56ac73ac.chunk.js.map",
+    "runtime-main.js": "/blazeclan/static/js/runtime-main.cb3ce3c3.js",
+    "runtime-main.js.map": "/blazeclan/static/js/runtime-main.cb3ce3c3.js.map",
+    "static/js/2.17bfb227.chunk.js": "/blazeclan/static/js/2.17bfb227.chunk.js",
+    "static/js/2.17bfb227.chunk.js.map": "/blazeclan/static/js/2.17bfb227.chunk.js.map",
+    "index.html": "/blazeclan/index.html",
+    "precache-manifest.7c8a4aa462c5e0f1d4f7740fe4a83de8.js": "/blazeclan/precache-manifest.7c8a4aa462c5e0f1d4f7740fe4a83de8.js",
+    "service-worker.js": "/blazeclan/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/blazeclan/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.17bfb227.chunk.js.LICENSE.txt": "/blazeclan/static/js/2.17bfb227.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb3ce3c3.js",
+    "static/js/2.17bfb227.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.56ac73ac.chunk.js"
+  ]
+}
